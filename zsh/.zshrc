@@ -118,4 +118,5 @@ alias tree="tree -hF"
 alias null='/dev/null 2>&1'
 
 alias tfls="cd ~/Downloads/Telegram\ Desktop/"
+alias dlml="source activate tf-gpu"
  
