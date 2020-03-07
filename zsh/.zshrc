@@ -115,3 +115,6 @@ alias git_log="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Cre
 
 alias tree="tree -hF"
 alias null='/dev/null 2>&1'
+
+alias tfls="cd ~/Downloads/Telegram\ Desktop/"
+ 
