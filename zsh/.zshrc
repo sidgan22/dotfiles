@@ -101,6 +101,7 @@ source $ZSH/oh-my-zsh.sh
 export LD_LIBRARY_PATH="/usr/local/lib/"
 export PKG_CONFIG_PATH="/usr/local/lib/pkgconfig"
 export PATH="$PATH:$HOME/src/flutter/bin"
+export PATH="$PATH:$HOME/anaconda3/bin"
 
 alias zathura='foo(){zathura "$1"&!}; foo '
 alias feh='foo(){feh --scale-down --auto-zoom "$1" .}; foo '
